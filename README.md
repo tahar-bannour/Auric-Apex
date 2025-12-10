@@ -62,3 +62,4 @@ Provides signals and market insights while maintaining your trading edge.
 
 **Tahar Bannour**  
 Support and customization available via Upwork.
+TAHER.BANNOUR.97@GMAIL.COM
