@@ -62,4 +62,5 @@ Provides signals and market insights while maintaining your trading edge.
 
 **Tahar Bannour**  
 Support and customization available via Upwork.
+https://www.upwork.com/services/product/development-it-advanced-xauusd-breakout-indicator-with-rsi-sma-filters-and-pivot-levels-1987107377318323688
 TAHER.BANNOUR.97@GMAIL.COM
